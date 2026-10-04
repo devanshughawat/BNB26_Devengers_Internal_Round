@@ -1,0 +1,8 @@
+{
+  "name": "TruthLens AI",
+  "description": "Cross-Artifact Multimodal Disinformation & Forensic Reasoning Engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
